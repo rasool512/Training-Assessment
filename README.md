@@ -151,3 +151,4 @@ but for character-oriented data,it is preferred to use FileWroter then FileOutpu
 *the Properties object ciontains key and value pair both as a string,java.util.Properties class is the subclass of Hashtable 
 *it can be used to get property value based on the property key 
 *the properties class provide methods to get data from the properties file and store data the properties file,it can be used to get the prperties of a system
+
