@@ -17,8 +17,9 @@ it can use class,methods,variables,constructor
 
 2.private: 
 
-*it can access with in the class only
-*outside of the class and out side of the package it can't be access
+* it can access with in the class only
+
+* outside of the class and out side of the package it can't be access
 
 3.defualt : 
 
@@ -51,17 +52,21 @@ it can applicable only data members,methods,constructor and it not aplicable cla
 ## Static Modifire :
 
 * staic modifre applicable in variables and methods but not for class but we can declare inner class to class level
+
 * instance variable for avery object separate copy wil be created but in the case static variblr are created single 
   copy will be created class level to share by every object of that class
 * it can't access instance members to static area but it can access instance area directly
 * but we can acess static members both static  and non static areas
-* 
+
 ## static method : 
 
-If you apply static keyword with any method, it is known as static method.
-static method belongs to the class rather than the object of a class.
-static method can be invoked without the need for creating an instance of a class.
-static method can access static data member and can change the value of it.
+* If you apply static keyword with any method, it is known as static method.
+
+* static method belongs to the class rather than the object of a class.
+
+* static method can be invoked without the need for creating an instance of a class.
+
+* static method can access static data member and can change the value of it.
 
 ## Variable Types : 
 
